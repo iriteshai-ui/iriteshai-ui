@@ -54,7 +54,7 @@ I build fintech products that ship: from **API specs and roadmaps** to **UAT and
 
 ## 🎯 Open To
 
-Product Management roles in **Payments, Prepaid, API/Platform and Digital Commerce**.
+Product Management roles in **Payments, Digital Lending, API/Platform and Digital Commerce**.
 
 ## 📫 Let's Connect
 
