@@ -58,5 +58,5 @@ Product Management roles in **Payments, Prepaid, API/Platform and Digital Commer
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [add your link here]
+- 💼 LinkedIn:https://www.linkedin.com/in/iritesh23/
 - 📧 Ritswankhede@gmail.com
