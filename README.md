@@ -52,11 +52,10 @@ I use AI as a hands-on part of my product workflow, not just as a buzzword:
 ## 📚 AI Learning & Upskilling
 
 I keep building my AI knowledge alongside hands-on practice:
-
 Master Generative AI and predictive analytics to automate workflows, write bulletproof PRDs, and launch products faster.
-**Focus areas:** Generative AI • Prompt Engineering • AI-assisted development • [add any others, e.g. LLMs, AI agents]
- by Instructor
-Silviu Marisca
+**Focus areas:** Generative AI • Prompt Engineering • AI-assisted development • 
+ by Instructor Silviu Marisca
+
 ---
 
 ## 🧭 Career Snapshot
@@ -72,7 +71,7 @@ Silviu Marisca
 
 ## 🎓 Education & Certifications
 
-- B.E. (Information Technology), Savitribai Phule Pune University
+- B.E. (Information Technology)
 - SAFe Agile • JIRA • Product Owner Practices
 - AI courses: see **AI Learning & Upskilling** above
 
@@ -80,7 +79,7 @@ Silviu Marisca
 
 ## 🎯 Open To
 
-Product Management roles in **Payments, Digital Lending, API/Platform and Digital Commerce**.
+Product Management roles in **, Digital Lending, API/Platform and Digital Commerce,Payments**.
 
 ## 📫 Let's Connect
 
