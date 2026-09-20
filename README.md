@@ -33,7 +33,7 @@ I use AI as a hands-on part of my product workflow, not just as a buzzword:
 
 - 🏦 **Digital Lending:** owned the Personal Loan digital journey, driving a **20% increase in loan applications**
 - 🔌 **API Product Ownership:** turned business needs into API specs, BRDs and FRDs; validated with Postman and JMeter
-- 🔄 **SAFe Agile Delivery:** Product Owner aligning **30+ stakeholders** across tech, ops, risk and compliance; cut delivery time by **30%**
+- 🔄 **SAFe Agile Delivery:** Product Owner aligning **30+ stakeholders** across tech, ops, risk and compliance*
 - 💳 **Payments & Prepaid:** platform thinking, security-first transaction flows (OTP, authentication, search)
 - 🤖 **AI-Assisted Product Development:** prompt engineering + AI IDEs to compress the idea-to-UAT cycle
 - 📈 **Market & Competitor Research:** insights that contributed to **10% portfolio growth**
